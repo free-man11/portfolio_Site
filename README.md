@@ -1,11 +1,14 @@
-Hello and welcome to the code for my personal site! I've made it public so you can get a sense of how I went about creating the website
+HELLO AND WELCOME TO THE CODE FOR MY PERSONAL SITE! I'VE MADE IT PUBLIC SO YOU CAN GET A SENSE OF HOW I WENT ABOUT CREATING THE WEBSITE!
 
-Quick rundown of what's being used:
+QUICK RUNDOWN OF WHAT'S BEING USED:
 
 *HTML
 *CSS
 *JAVASCRIPT
 
+
+
+HERE ARE ALSO A SNAPSHOT OF IT
 
 
 <img width="1680" alt="Screenshot 2022-04-22 at 11 01 58 PM" src="https://user-images.githubusercontent.com/98413109/164815861-44de1ece-23fb-452e-8455-09dd14bf1280.png">

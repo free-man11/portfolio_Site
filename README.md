@@ -5,6 +5,8 @@ QUICK RUNDOWN OF WHAT'S BEING USED:
 *CSS
 *JAVASCRIPT
 
+I've hosted this @netlify now >>>>>https://10947025.netlify.app
+
 
 
 
